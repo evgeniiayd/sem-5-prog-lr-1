@@ -6,4 +6,7 @@
 ![image](https://github.com/user-attachments/assets/90fc71c3-e094-41c8-adb4-de6cdea17690)
 3. Запуск activation_script.py.
 ![image](https://github.com/user-attachments/assets/8646b6f8-f388-4417-b0e6-a79c84e6ed68)
-4. 
+4. Попытка импорта, завершающаяся ошибкой.
+![image](https://github.com/user-attachments/assets/0baccd08-15ca-492b-a134-939812e29202)
+5. Импорт модуля после добавления sys.path.append("http://localhost:8000") пути, где располагается модуль.
+![image](https://github.com/user-attachments/assets/0bc14686-39ac-49f2-a9fe-8eca790c6807)
