@@ -27,5 +27,16 @@
 
 ![image](https://github.com/user-attachments/assets/84bb2b98-3426-43bb-a8eb-78855d6efbf5)
 
+7. Реализация импорта удаленного модуля с хостингом GitHub Pages.
+Репозиторий с модулем был задеплоен на сайт: https://evgeniiayd.github.io/my-remote-module/ .
 
+Успешный импорт удаленного модуля с GitHub Pages:
+![image](https://github.com/user-attachments/assets/31d1394e-dbcc-4594-a6d2-7ec13a337a13)
 
+8. Переписанный код, где парсинг происходит с помощью модуля request:
+
+![image](https://github.com/user-attachments/assets/d7891fdb-0914-4a26-9936-fba4fa521e4a)
+
+9. Обработка ошибки при недоступном хосте функция url_hook():
+
+![image](https://github.com/user-attachments/assets/c47ec0b0-ce7d-482c-a7dc-d5dbfa1fe7f7)
